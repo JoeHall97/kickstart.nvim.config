@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 --[[
 
 =====================================================================
@@ -86,11 +85,7 @@ P.S. You can delete this when you're done too. It's your config now! :)
 --]]
 
 -- ============================================================
--- SECTION 1: OPTIONS
-=======
--- ============================================================ini
 -- SECTION 1: FOUNDATION
->>>>>>> Stashed changes
 -- Core Neovim settings, leaders, options, basic keymaps, basic autocmds
 -- ============================================================
 do
@@ -178,17 +173,14 @@ do
   vim.o.confirm = true
 end
 
-<<<<<<< Updated upstream
 -- ============================================================
 -- SECTION 2: KEYMAPS
 -- basic keymaps
 -- ============================================================
 do
-=======
   vim.o.tabstop = 4
   vim.o.shiftwidth = 4
 
->>>>>>> Stashed changes
   -- [[ Basic Keymaps ]]
   --  See `:help vim.keymap.set()`
 
